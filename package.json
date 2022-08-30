@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "marionogameportfolio",
-  "homepage": "http://Marionogame.github.io/marionogamePortafolio.github.io",
+  "homepage": "http://Marionogame.github.io/marionogamePortafolio",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",

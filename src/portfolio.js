@@ -64,7 +64,6 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -86,7 +85,6 @@ const skills = {
             color: "#CB3837",
           },
         },
-
         {
           skillName: "Android Native",
           fontAwesomeClassname: "simple-icons:android",
@@ -94,7 +92,6 @@ const skills = {
             color: "#3DDC84",
           },
         },
-
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
@@ -102,7 +99,6 @@ const skills = {
             color: "#02569B",
           },
         },
-
         {
           skillName: "Gatsby",
           fontAwesomeClassname: "file-icons:gatsby",
@@ -117,7 +113,6 @@ const skills = {
             color: "#4479A1",
           },
         },
-
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -139,7 +134,6 @@ const skills = {
             color: "#001E36",
           },
         },
-
         {
           skillName: "C-Sharp",
           fontAwesomeClassname: "teenyicons:c-sharp-solid",

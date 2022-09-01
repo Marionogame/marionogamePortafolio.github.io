@@ -19,12 +19,12 @@ function GetSkillSvg(props) {
 function SkillSection(props) {
   const theme = props.theme;
   return (
-    <div>
+    <div className="containerSkill">
       {skills.data.map((skill, index) => {
         if (index % 2 === 0) {
           return (
             <div key={index} className="skills-main-div">
-              <Fade left dur0ation={2000}>
+              <Fade left duration={2000}>
                 <div className="skills-image-div">
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
                 </div>

@@ -3,14 +3,16 @@ import Header from "../../components/header/Header";
 import Greeting from "../../containers/greeting/Greeting";
 import Skills from "../../containers/skills/Skills";
 import Footer from "../../components/footer/Footer";
-
+import "./homeComponent.css";
 function Home(props) {
   return (
-    <div>
+    <div className="homeWidth">
       <Header theme={props.theme} setTheme={props.setTheme} />
-      <Greeting theme={props.theme} />
-      <Skills theme={props.theme} />
-      <Footer theme={props.theme} />
+      <div className="homePadding">
+        <Greeting theme={props.theme} />
+        <Skills theme={props.theme} />
+        <Footer theme={props.theme} />
+      </div>
     </div>
   );
 }

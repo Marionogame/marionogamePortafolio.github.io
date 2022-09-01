@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73dedd3e402bc0c9175caa3928106a56",
+    "revision": "923de7181db6184adaba3ccb16dce746",
     "url": "/marionogamePortafolio/index.html"
   },
   {
-    "revision": "54d152fd506f022d2a49",
+    "revision": "ae82239c15b8ad469aa5",
     "url": "/marionogamePortafolio/static/css/2.3fc42fd8.chunk.css"
   },
   {
-    "revision": "7a3a4c51ac6f319f361b",
-    "url": "/marionogamePortafolio/static/css/main.6c392f8c.chunk.css"
+    "revision": "6ff49413b5f3cff16c08",
+    "url": "/marionogamePortafolio/static/css/main.d6846ccc.chunk.css"
   },
   {
-    "revision": "54d152fd506f022d2a49",
-    "url": "/marionogamePortafolio/static/js/2.cf08fec5.chunk.js"
+    "revision": "ae82239c15b8ad469aa5",
+    "url": "/marionogamePortafolio/static/js/2.b22e573e.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/marionogamePortafolio/static/js/2.cf08fec5.chunk.js.LICENSE.txt"
+    "url": "/marionogamePortafolio/static/js/2.b22e573e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a3a4c51ac6f319f361b",
-    "url": "/marionogamePortafolio/static/js/main.a9466c68.chunk.js"
+    "revision": "6ff49413b5f3cff16c08",
+    "url": "/marionogamePortafolio/static/js/main.902f6e69.chunk.js"
   },
   {
     "revision": "b6ab60b3d37779dd3bfc",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/marionogamePortafolio/static/media/Agustina.21f233e1.woff"
-  },
-  {
-    "revision": "e98b3b380b772548b96f73f4a280447d",
-    "url": "/marionogamePortafolio/static/media/D_NQ_NP_867915-MLA41826272219_052020-O.e98b3b38.jpg"
   },
   {
     "revision": "2c6fa15349c635c67d8f6cb42b6c920a",
@@ -164,22 +160,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/media/googleAssistant.0c8a4c11.jpg"
   },
   {
-    "revision": "3d9465c3483dffb591b31f101699d0dc",
-    "url": "/marionogamePortafolio/static/media/gtu.3d9465c3.png"
-  },
-  {
-    "revision": "7a2dbf7a2595600c00118eea8a7a52f8",
-    "url": "/marionogamePortafolio/static/media/hackathon1.7a2dbf7a.svg"
-  },
-  {
-    "revision": "823352fd86e6f76120c6713bccc61157",
-    "url": "/marionogamePortafolio/static/media/harikrushn.823352fd.jpg"
-  },
-  {
-    "revision": "36d7942a201d6e2b83b55876e8433ccf",
-    "url": "/marionogamePortafolio/static/media/iit.36d7942a.png"
-  },
-  {
     "revision": "ccf886614a9c68f209d3e95c2626dd99",
     "url": "/marionogamePortafolio/static/media/ino.ccf88661.png"
   },
@@ -220,16 +200,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/media/mlh-logo.bc5cfd3a.svg"
   },
   {
-    "revision": "53dd27a8801e3a4216b9c9e217dfc7d0",
-    "url": "/marionogamePortafolio/static/media/mlh.53dd27a8.png"
-  },
-  {
     "revision": "d324ee17433678f2c32e57198b98c6db",
     "url": "/marionogamePortafolio/static/media/mongo.d324ee17.png"
-  },
-  {
-    "revision": "5dcd18d03068fbd9edeeb5003b21998a",
-    "url": "/marionogamePortafolio/static/media/nightowls.5dcd18d0.jpg"
   },
   {
     "revision": "22f11067f2d745aaceb51e485720635d",
@@ -268,23 +240,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/media/sl5.9861f862.png"
   },
   {
-    "revision": "8901092d61bfd611f75368233b1774c6",
-    "url": "/marionogamePortafolio/static/media/ssec.8901092d.png"
-  },
-  {
-    "revision": "894ef0fc8dfe1c0ab658636b806049db",
-    "url": "/marionogamePortafolio/static/media/ssgandhy.894ef0fc.png"
-  },
-  {
     "revision": "19fe5f355b66d7a101946c2eb8d89769",
     "url": "/marionogamePortafolio/static/media/ucateci.19fe5f35.png"
-  },
-  {
-    "revision": "246ad3ede6a55b0102afa9871cfcbf21",
-    "url": "/marionogamePortafolio/static/media/valora.246ad3ed.jpg"
-  },
-  {
-    "revision": "02fdae4350ca45cabdc9c40cc11efc2a",
-    "url": "/marionogamePortafolio/static/media/wrighter.02fdae43.jpg"
   }
 ]);

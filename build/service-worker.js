@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/marionogamePortafolio/precache-manifest.f5eecaab68f0bdc681757e1a8ba3fb47.js"
+  "/marionogamePortafolio/precache-manifest.94e88688dddd2bbfa3554ed145dc1b2c.js"
 );
 
 self.addEventListener('message', (event) => {

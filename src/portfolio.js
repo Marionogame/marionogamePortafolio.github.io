@@ -266,7 +266,7 @@ const experience = {
   title: "Experience",
   subtitle: "Perfil profesional",
   description:
-    "Programmer with more than 8 years of experience in the world of programming, I have done different projects at the professional level such as Konteo, MaxMonitor, MiRastreo, wooZilla, personal projects among others..., with a thirst for knowledge and high professionalism",
+    "Programmer with more than 4 years of experience in the world of programming, I have done different projects at the professional level such as Konteo, MaxMonitor, MiRastreo, wooZilla, personal projects among others..., with a thirst for knowledge and high professionalism.",
   header_image_path: "experience.svg",
   sections: [
     {

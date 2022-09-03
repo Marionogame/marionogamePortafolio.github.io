@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "923de7181db6184adaba3ccb16dce746",
+    "revision": "3c9bb8ed424a0dc4305cd30eb85f5909",
     "url": "/marionogamePortafolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/css/2.3fc42fd8.chunk.css"
   },
   {
-    "revision": "6ff49413b5f3cff16c08",
+    "revision": "379e87c739a99cd8ce0d",
     "url": "/marionogamePortafolio/static/css/main.d6846ccc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/js/2.b22e573e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ff49413b5f3cff16c08",
-    "url": "/marionogamePortafolio/static/js/main.902f6e69.chunk.js"
+    "revision": "379e87c739a99cd8ce0d",
+    "url": "/marionogamePortafolio/static/js/main.25b41702.chunk.js"
   },
   {
     "revision": "b6ab60b3d37779dd3bfc",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/media/logoiKompras.dc699e0e.psd"
   },
   {
-    "revision": "5639d5e606dd7ef296c92566a5a6d2b5",
-    "url": "/marionogamePortafolio/static/media/mario.5639d5e6.jpg"
+    "revision": "801c359b980048fb879435e95f4a9117",
+    "url": "/marionogamePortafolio/static/media/mario.801c359b.png"
   },
   {
     "revision": "635d5faa49507f543c1e57fa19201d8f",

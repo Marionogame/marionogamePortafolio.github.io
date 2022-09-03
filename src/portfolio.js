@@ -15,7 +15,8 @@ const greeting = {
   nickname: "Marionogame",
   full_name: "Mario Jose Espaillat Morey",
   subTitle: "Full Stack Developer, Ing. Sistema 🔥. passionate code.",
-  resumeLink: "https://docs.google.com",
+  resumeLink:
+    "https://docs.google.com/document/d/1gV7UUBiaXK5Vbz4fLGZs2CLafMGitxJj/edit?usp=sharing&ouid=111997971256297043269&rtpof=true&sd=true",
   mail: "mario19ok@gmail.com",
 };
 
@@ -322,7 +323,7 @@ const projectsHeader2 = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "mario.jpg",
+    profile_image_path: "mario.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },

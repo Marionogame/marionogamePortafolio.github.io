@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Mario Jose Espaillat Morey",
   subTitle: "Full Stack Developer, Ing. Sistema 🔥. passionate code.",
   resumeLink:
-    "https://docs.google.com/document/d/1gV7UUBiaXK5Vbz4fLGZs2CLafMGitxJj/edit?usp=sharing&ouid=111997971256297043269&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/1n8R6r4K4N-krgRD-UY1PFWe4xt-YmuE4/view?usp=sharing",
   mail: "mario19ok@gmail.com",
 };
 
@@ -294,7 +294,7 @@ const experience = {
           company: "Woozilla",
           company_url: "",
           logo_path: "skillenza.png",
-          duration: "10 meses",
+          duration: "2 year",
           location: "Work From Home",
           description:
             "Woozilla is a project in charge of Ing Jose Rodriguez where together with other programmers we built a billing system.",

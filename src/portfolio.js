@@ -16,14 +16,14 @@ const greeting = {
   full_name: "Mario Jose Espaillat Morey",
   subTitle: "Full Stack Developer, Ing. Sistema 🔥. passionate code.",
   resumeLink:
-    "https://drive.google.com/file/d/1n8R6r4K4N-krgRD-UY1PFWe4xt-YmuE4/view?usp=sharing",
+    "https://drive.google.com/file/d/17SUWha1WWknUHb2s896hDzJ8bFp4XfwF/view?usp=sharing",
   mail: "mario19ok@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/Marionogame",
-  linkedin: "https://www.linkedin.com/in/mario-jose-espaillat-05827424a/",
+  linkedin: "https://www.linkedin.com/in/mario-jose-espaillat-morey-2a3328287/",
   gmail: "mario19ok@gmail.com",
   gitlab: "https://gitlab.com/Marionogame",
   facebook: "https://www.facebook.com/mario.espaillatmorey",
@@ -278,7 +278,7 @@ const experience = {
           company: "Ikompras.srl",
           company_url: "https://ikompras.net/",
           logo_path: "logoiKompras.png",
-          duration: "2 year and more",
+          duration: "3 year",
           location: "Office",
           description: `Work closely with the business owner and team leaders on development, project builds, change request functions, and maintenance of existing applications. Increased productivity and problem solving techniques creation of functional components, We mainly use react and a wide variety of frameworks, also in charge of training, managing and providing guidance to staff.`,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",

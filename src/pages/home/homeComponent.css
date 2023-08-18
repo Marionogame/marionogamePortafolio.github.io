@@ -1,0 +1,13 @@
+.homeWidth {
+  width: 100vw !important;
+}
+.homePadding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+@media (min-width: 1680px) {
+  .homePadding {
+    padding-left: 220px;
+    padding-right: 220px;
+  }
+}

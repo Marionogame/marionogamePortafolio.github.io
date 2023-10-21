@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/marionogamePortafolio/static/css/main.a61a84ec.chunk.css",
-    "main.js": "/marionogamePortafolio/static/js/main.103f7cd9.chunk.js",
-    "main.js.map": "/marionogamePortafolio/static/js/main.103f7cd9.chunk.js.map",
+    "main.js": "/marionogamePortafolio/static/js/main.0a0cd7ef.chunk.js",
+    "main.js.map": "/marionogamePortafolio/static/js/main.0a0cd7ef.chunk.js.map",
     "runtime-main.js": "/marionogamePortafolio/static/js/runtime-main.6a40ef5c.js",
     "runtime-main.js.map": "/marionogamePortafolio/static/js/runtime-main.6a40ef5c.js.map",
     "static/css/2.446e7b36.chunk.css": "/marionogamePortafolio/static/css/2.446e7b36.chunk.css",
     "static/js/2.f3be024d.chunk.js": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js",
     "static/js/2.f3be024d.chunk.js.map": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js.map",
     "index.html": "/marionogamePortafolio/index.html",
-    "precache-manifest.7c8082f10f81d8571d6bc5315e0bcf95.js": "/marionogamePortafolio/precache-manifest.7c8082f10f81d8571d6bc5315e0bcf95.js",
+    "precache-manifest.e2715cab30c0d5dece6e57dffebe944f.js": "/marionogamePortafolio/precache-manifest.e2715cab30c0d5dece6e57dffebe944f.js",
     "service-worker.js": "/marionogamePortafolio/service-worker.js",
     "static/css/2.446e7b36.chunk.css.map": "/marionogamePortafolio/static/css/2.446e7b36.chunk.css.map",
     "static/css/main.a61a84ec.chunk.css.map": "/marionogamePortafolio/static/css/main.a61a84ec.chunk.css.map",
@@ -53,6 +53,6 @@
     "static/css/2.446e7b36.chunk.css",
     "static/js/2.f3be024d.chunk.js",
     "static/css/main.a61a84ec.chunk.css",
-    "static/js/main.103f7cd9.chunk.js"
+    "static/js/main.0a0cd7ef.chunk.js"
   ]
 }

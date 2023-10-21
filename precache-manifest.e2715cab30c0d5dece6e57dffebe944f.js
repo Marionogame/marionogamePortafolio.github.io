@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63c02c69aa12f2d709f1d0df30b1dc9a",
+    "revision": "c9c2d7d8a0bb8fdb35a532e575571c5e",
     "url": "/marionogamePortafolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/css/2.446e7b36.chunk.css"
   },
   {
-    "revision": "05a9b0c92711df0ba3db",
+    "revision": "d1b598910983a64df4e4",
     "url": "/marionogamePortafolio/static/css/main.a61a84ec.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05a9b0c92711df0ba3db",
-    "url": "/marionogamePortafolio/static/js/main.103f7cd9.chunk.js"
+    "revision": "d1b598910983a64df4e4",
+    "url": "/marionogamePortafolio/static/js/main.0a0cd7ef.chunk.js"
   },
   {
     "revision": "4c4844453445195984d0",

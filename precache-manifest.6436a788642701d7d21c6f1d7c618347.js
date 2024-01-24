@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9c2d7d8a0bb8fdb35a532e575571c5e",
+    "revision": "201f090d253153d65bfa650ef3df70d0",
     "url": "/marionogamePortafolio/index.html"
   },
   {
-    "revision": "35a7441246cfcb05e3cd",
+    "revision": "4be0cd7a263a3c98e3e2",
     "url": "/marionogamePortafolio/static/css/2.446e7b36.chunk.css"
   },
   {
-    "revision": "d1b598910983a64df4e4",
+    "revision": "0d8ab75c05cb1f143cac",
     "url": "/marionogamePortafolio/static/css/main.a61a84ec.chunk.css"
   },
   {
-    "revision": "35a7441246cfcb05e3cd",
-    "url": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js"
+    "revision": "4be0cd7a263a3c98e3e2",
+    "url": "/marionogamePortafolio/static/js/2.29692980.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js.LICENSE.txt"
+    "url": "/marionogamePortafolio/static/js/2.29692980.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1b598910983a64df4e4",
-    "url": "/marionogamePortafolio/static/js/main.0a0cd7ef.chunk.js"
+    "revision": "0d8ab75c05cb1f143cac",
+    "url": "/marionogamePortafolio/static/js/main.14977f87.chunk.js"
   },
   {
     "revision": "4c4844453445195984d0",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/marionogamePortafolio/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "f5bdb9080f23c04bd8c610bd3574015f",
+    "url": "/marionogamePortafolio/static/media/DominicanShippingLogo.f5bdb908.png"
   },
   {
     "revision": "2c6fa15349c635c67d8f6cb42b6c920a",
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "404ae7bc061a03e399daa61344c78566",
     "url": "/marionogamePortafolio/static/media/cwoc.404ae7bc.png"
+  },
+  {
+    "revision": "2a0d1495585a38632f8440400c7f0495",
+    "url": "/marionogamePortafolio/static/media/dominicAmericano.2a0d1495.png"
   },
   {
     "revision": "82473004d117a65c8ed30396c6299763",
@@ -178,6 +186,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b7f903d747b0409347c9ee67745dbfa4",
     "url": "/marionogamePortafolio/static/media/localguide.b7f903d7.png"
+  },
+  {
+    "revision": "89ee96c8dace44308f42d86e937a8125",
+    "url": "/marionogamePortafolio/static/media/logoctc.89ee96c8.png"
+  },
+  {
+    "revision": "ad523538d893e5e2596cb2bfb8b769a5",
+    "url": "/marionogamePortafolio/static/media/logoctc.ad523538.jpg"
   },
   {
     "revision": "be99e2dd71c03cd64e111d99683ef63a",

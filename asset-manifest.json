@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/marionogamePortafolio/static/css/main.a61a84ec.chunk.css",
-    "main.js": "/marionogamePortafolio/static/js/main.0a0cd7ef.chunk.js",
-    "main.js.map": "/marionogamePortafolio/static/js/main.0a0cd7ef.chunk.js.map",
+    "main.js": "/marionogamePortafolio/static/js/main.14977f87.chunk.js",
+    "main.js.map": "/marionogamePortafolio/static/js/main.14977f87.chunk.js.map",
     "runtime-main.js": "/marionogamePortafolio/static/js/runtime-main.6a40ef5c.js",
     "runtime-main.js.map": "/marionogamePortafolio/static/js/runtime-main.6a40ef5c.js.map",
     "static/css/2.446e7b36.chunk.css": "/marionogamePortafolio/static/css/2.446e7b36.chunk.css",
-    "static/js/2.f3be024d.chunk.js": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js",
-    "static/js/2.f3be024d.chunk.js.map": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js.map",
+    "static/js/2.29692980.chunk.js": "/marionogamePortafolio/static/js/2.29692980.chunk.js",
+    "static/js/2.29692980.chunk.js.map": "/marionogamePortafolio/static/js/2.29692980.chunk.js.map",
     "index.html": "/marionogamePortafolio/index.html",
-    "precache-manifest.e2715cab30c0d5dece6e57dffebe944f.js": "/marionogamePortafolio/precache-manifest.e2715cab30c0d5dece6e57dffebe944f.js",
+    "precache-manifest.6436a788642701d7d21c6f1d7c618347.js": "/marionogamePortafolio/precache-manifest.6436a788642701d7d21c6f1d7c618347.js",
     "service-worker.js": "/marionogamePortafolio/service-worker.js",
     "static/css/2.446e7b36.chunk.css.map": "/marionogamePortafolio/static/css/2.446e7b36.chunk.css.map",
     "static/css/main.a61a84ec.chunk.css.map": "/marionogamePortafolio/static/css/main.a61a84ec.chunk.css.map",
-    "static/js/2.f3be024d.chunk.js.LICENSE.txt": "/marionogamePortafolio/static/js/2.f3be024d.chunk.js.LICENSE.txt",
+    "static/js/2.29692980.chunk.js.LICENSE.txt": "/marionogamePortafolio/static/js/2.29692980.chunk.js.LICENSE.txt",
     "static/media/index.css": "/marionogamePortafolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/DominicanShippingLogo.png": "/marionogamePortafolio/static/media/DominicanShippingLogo.f5bdb908.png",
     "static/media/Gmail - Confirmación de su pedido.pdf": "/marionogamePortafolio/static/media/Gmail - Confirmación de su pedido.2c6fa153.pdf",
     "static/media/buld.jpg": "/marionogamePortafolio/static/media/buld.a1051a22.jpg",
     "static/media/cwoc.png": "/marionogamePortafolio/static/media/cwoc.404ae7bc.png",
+    "static/media/dominicAmericano.png": "/marionogamePortafolio/static/media/dominicAmericano.2a0d1495.png",
     "static/media/efi.png": "/marionogamePortafolio/static/media/efi.82473004.png",
     "static/media/all.css": "/marionogamePortafolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/fazt.png": "/marionogamePortafolio/static/media/fazt.506e38cf.png",
@@ -31,6 +33,8 @@
     "static/media/leoMedina.png": "/marionogamePortafolio/static/media/leoMedina.fcb00699.png",
     "static/media/localguide.gif": "/marionogamePortafolio/static/media/localguide.847873a8.gif",
     "static/media/localguide.png": "/marionogamePortafolio/static/media/localguide.b7f903d7.png",
+    "static/media/logoctc.png": "/marionogamePortafolio/static/media/logoctc.89ee96c8.png",
+    "static/media/logoctc.jpg": "/marionogamePortafolio/static/media/logoctc.ad523538.jpg",
     "static/media/logoiKompras.png": "/marionogamePortafolio/static/media/logoiKompras.be99e2dd.png",
     "static/media/logoiKompras.psd": "/marionogamePortafolio/static/media/logoiKompras.dc699e0e.psd",
     "static/media/mario.png": "/marionogamePortafolio/static/media/mario.fe92f1be.png",
@@ -51,8 +55,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a40ef5c.js",
     "static/css/2.446e7b36.chunk.css",
-    "static/js/2.f3be024d.chunk.js",
+    "static/js/2.29692980.chunk.js",
     "static/css/main.a61a84ec.chunk.css",
-    "static/js/main.0a0cd7ef.chunk.js"
+    "static/js/main.14977f87.chunk.js"
   ]
 }

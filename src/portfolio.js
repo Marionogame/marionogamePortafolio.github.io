@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Mario Jose Espaillat Morey",
   subTitle: "Full Stack Developer, Ing. Sistema 🔥. passionate code.",
   resumeLink:
-    "https://drive.google.com/file/d/17SUWha1WWknUHb2s896hDzJ8bFp4XfwF/view?usp=sharing",
+    "https://drive.google.com/file/d/1dNckwLebg_R3BOUmBLmK_MKH5RAEiv1C/view?usp=sharing",
   mail: "mario19ok@gmail.com",
 };
 
@@ -274,12 +274,12 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Front End Developer",
+          title: "Software Developer",
           company: "Ikompras.srl",
           company_url: "https://ikompras.net/",
           logo_path: "logoiKompras.png",
-          duration: "3 year",
-          location: "Office",
+          duration: "May 2019 - Sep 2023 · 4 yrs 5 mos",
+          location: "Work From Home",
           description: `Work closely with the business owner and team leaders on development, project builds, change request functions, and maintenance of existing applications. Increased productivity and problem solving techniques creation of functional components, We mainly use react and a wide variety of frameworks, also in charge of training, managing and providing guidance to staff.`,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
@@ -294,7 +294,7 @@ const experience = {
           company: "Woozilla",
           company_url: "",
           logo_path: "skillenza.png",
-          duration: "2 year",
+          duration: "1 year",
           location: "Work From Home",
           description:
             "Woozilla is a project in charge of Ing Jose Rodriguez where together with other programmers we built a billing system.",

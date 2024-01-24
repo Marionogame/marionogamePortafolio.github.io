@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Mario Jose Espaillat Morey",
   subTitle: "Full Stack Developer, Ing. Sistema 🔥. passionate code.",
   resumeLink:
-    "https://drive.google.com/file/d/1dNckwLebg_R3BOUmBLmK_MKH5RAEiv1C/view?usp=sharing",
+    "https://drive.google.com/file/d/1J7_tuqtOPn4BQPIB6MvJKGw9PBf6Fq3B/view?usp=sharing",
   mail: "mario19ok@gmail.com",
 };
 
@@ -176,64 +176,80 @@ const skills = {
 const degrees = {
   degrees: [
     {
+      title: "Dominico Americano",
+      subtitle: "Degree in education with English mention",
+      logo_path: "dominicAmericano.png",
+      alt_name: "Dominico Americano",
+      duration: "2022 - 2023",
+      descriptions: ["⚡curved and finished successfully."],
+      website_link: "https://eldominico.edu.do/",
+    },
+    {
       title: "Universidad Católica del Cibao",
       subtitle: "Computer Systems Engineering",
       logo_path: "ucateci.png",
       alt_name: "UCATECI",
       duration: "2015 - 2021",
-      descriptions: [
-        "⚡curved and finished successfully.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-      ],
+      descriptions: ["⚡curved and finished successfully."],
       website_link: "https://www.ucateci.edu.do/",
     },
     {
-      title: "React",
+      title: "Software Testing",
+      subtitle: "Software Testing hands-on courses",
+      logo_path: "logoctc.png",
+      alt_name: "CTC",
+      duration: "2018 - 2019",
+      descriptions: [
+        "⚡Fundamentals of Software Quality, Software Testing Process, Testing tools with examples and uses.",
+      ],
+      website_link: "https://ctc.edu.do/",
+    },
+    {
+      title: "React.js",
       subtitle: "React hands-on courses",
-      logo_path: "fazt.png",
-      alt_name: "FAZT",
-      duration: "Complete",
+      logo_path: "logoctc.png",
+      alt_name: "ctc",
+
+      duration: "2018",
       descriptions: [
         "⚡This course teaches what is React?, how to install it, how to configure it, how to use its multiple libraries and functionalities so that when you finish it you can start creating applications using this library.",
       ],
-      website_link: "https://www.faztweb.com/contenido/react",
+      website_link: "https://ctc.edu.do/",
+    },
+
+    {
+      title: "JavaScript",
+      subtitle: "JavaScript hands-on courses",
+      logo_path: "logoctc.png",
+      alt_name: "ctc",
+      duration: "2018",
+      descriptions: [
+        "⚡The course includes the Syntax of ECMAScript ES6, ES7, ES8, ES9, ES10, ES11 and ES12 or also known as Modern JavaScript.",
+      ],
+      website_link: "https://ctc.edu.do/",
     },
     {
-      title: "React Redux",
-      subtitle: "React Redux hands-on courses",
-      logo_path: "leoMedina.png",
-      alt_name: "Leo Medina",
-      duration: "Complete",
+      title: "Typescript",
+      subtitle: "Typescript hands-on courses",
+      logo_path: "logoctc.png",
+      alt_name: "ctc",
+      duration: "2018",
       descriptions: [
-        "⚡Teaches how to set up a project with the react-redux library from scratch. The structure of a redux store, reducers and actions are explained. React, react-dom, react-router-dom, material-ui, react-redux, redux are also used.",
+        "⚡This course covers all the syntax, features, and concepts you need to master TypeScript and start using it in your own codebases. We start with the very basics of the type system and cover everything up to incorporating TypeScript in React codebases and using Webpack with TypeScript.",
       ],
-      website_link:
-        "https://www.youtube.com/watch?v=OXWn4XiDUmw&list=PL33bS175Qm6dRwGuzW6AX7Ru7OpubipSw",
+      website_link: "https://ctc.edu.do/",
     },
+
     {
-      title: "Nodejs",
-      subtitle: "Nodejs hands-on courses",
-      logo_path: "fazt.png",
-      alt_name: "FAZT",
-      duration: "Complete",
+      title: "HTML5 & CSS",
+      subtitle: "Html and CSS hands-on courses",
+      logo_path: "logoctc.png",
+      alt_name: "CTC",
+      duration: "2017",
       descriptions: [
-        "⚡It is a practical introduction for Web Developers, who aim to create Backend applications, using the language they already know: Javascript.",
+        "⚡HTML works together with CSS to create the web pages we use every day in the browser...",
       ],
-      website_link: "https://www.faztweb.com/contenido/nodejs",
-    },
-    {
-      title: "hapi",
-      subtitle: "hapi hands-on courses",
-      logo_path: "futurestudio.png",
-      alt_name: "FUTURE STUDIO",
-      duration: "Complete",
-      descriptions: [
-        "⚡Teaches about various functionalities provided by hapi or additional plugins.",
-      ],
-      website_link:
-        "https://futurestud.io/tutorials/hapi-get-your-server-up-and-running",
+      website_link: "https://ctc.edu.do/",
     },
   ],
 };
@@ -267,7 +283,7 @@ const experience = {
   title: "Experience",
   subtitle: "Perfil profesional",
   description:
-    "Programmer with more than 4 years of experience in the world of programming, I have done different projects at the professional level such as Konteo, MaxMonitor, MiRastreo, wooZilla, personal projects among others..., with a thirst for knowledge and high professionalism.",
+    "Programmer with more than 7 years of experience in the world of programming, I have done different projects at the professional level such as Konteo, MaxMonitor, MiRastreo, wooZilla among others..., with a thirst for knowledge and high professionalism.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -280,8 +296,41 @@ const experience = {
           logo_path: "logoiKompras.png",
           duration: "May 2019 - Sep 2023 · 4 yrs 5 mos",
           location: "Work From Home",
-          description: `Work closely with the business owner and team leaders on development, project builds, change request functions, and maintenance of existing applications. Increased productivity and problem solving techniques creation of functional components, We mainly use react and a wide variety of frameworks, also in charge of training, managing and providing guidance to staff.`,
+          description: `Work closely with the business owner and team leaders on development, project builds, change request functions, and maintenance of existing applications. Increased productivity and problem solving techniques creation of functional components, We mainly use react and a wide variety of frameworks, also in charge of training, managing and providing guidance to staff.
+
+          `,
+          tasks: [
+            `Software architecture design for complex projects.
+`,
+            `Guidance and mentoring of junior programmers and other team members.
+`,
+            `Creation of standards that guaranteed the quality and coherence of the code
+base and saved development time by 20%.
+`,
+            `Upgrade old projects from React.js 16.4x progressing to the current version
+18.2.0x.
+`,
+            `Creation of more than 8 projects that are being used in more than 40 national
+and international companies.`,
+          ],
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#0071C5",
+        },
+        {
+          title: "Technology Director",
+          company: "Dominican Shipping Express",
+          company_url: "",
+          logo_path: "DominicanShippingLogo.png",
+          duration: "Febr 2016 - Marc 2019 3 yrs. 1 mos",
+          location: "Work From Home",
+          description: `Specialized in shipping boxes door to door from the United States, North Caroline to the Dominican Republic, offering their clients the opportunity to send packages right to their destination and in record time to the Dominican Republic.`,
+          tasks: [
+            `Develop technological strategies aligned with the company's long-term objectives.`,
+            `Select the technology stack that best suits the project requirements.`,
+            ` Collaborate with other departments to understand their needs and find solutions. `,
+            `Provide maintenance to all technological processes and programs that are in use.`,
+            `Work hand in hand with company management to make strategic moves.`,
+          ],
           color: "#0071C5",
         },
       ],
@@ -294,8 +343,9 @@ const experience = {
           company: "Woozilla",
           company_url: "",
           logo_path: "skillenza.png",
-          duration: "1 year",
+          duration: "7 mos",
           location: "Work From Home",
+          tasks: [],
           description:
             "Woozilla is a project in charge of Ing Jose Rodriguez where together with other programmers we built a billing system.",
           color: "#4285F4",

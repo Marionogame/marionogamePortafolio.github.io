@@ -23,18 +23,17 @@ function Education(props) {
                 Education
               </h1>
               <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                Computer Systems Engineering
+                System Engineer
               </h3>
               <p
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
                 Since the beginning of my university career I have always been
-                appeased to programming for these reasons the university was
-                only a part of the knowledge I obtained, most of it was through
-                my own research on the internet, later thanks to my work
-                experiences I refined those knowledge giving a high quality to
-                my programming
+                motivated by programming for these reasons. In addition to
+                university, I also studied other areas, later thanks to my work
+                experiences I perfected them. knowledge giving high quality to
+                my programming.
               </p>
             </div>
           </div>

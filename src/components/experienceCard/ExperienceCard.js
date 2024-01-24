@@ -58,6 +58,11 @@ function ExperienceCard(props) {
           style={{ color: theme.text }}
         >
           {experience["description"]}
+          <ul>
+            {experience["tasks"].map((list, index) => {
+              return <li key={index}>{list}</li>;
+            })}
+          </ul>
         </p>
       </div>
     </div>
